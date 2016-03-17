@@ -10,11 +10,7 @@ Application is bundled as an Maven project and following dependencies exist in P
     	===================================================================================
     		
   		
-  		<dependency>
-    		<groupId>org.glassfish</groupId>
-    		<artifactId>javax.json</artifactId>
-    		<version>1.0.4</version>
-		</dependency>
+  		
 		
 		<dependency>
 			<groupId>org.json</groupId>
