@@ -7,6 +7,7 @@ The URL for the target page is "http://hiring-tests.s3-website-eu-west-1.amazona
 For convenience URL is hard coded in the app.
 
 Application is bundled as an Maven project and following dependencies exist in POM.XML
+    	===================================================================================
     		<dependency>
 			<groupId>org.json</groupId>
 			<artifactId>json</artifactId>
@@ -34,7 +35,7 @@ Application is bundled as an Maven project and following dependencies exist in P
     		<version>1.3.0</version>
 			<scope>test</scope>
 		</dependency>
-		
+	======================================================================	
 		
 		How to run the application:
 		1) Doenload zip to the local drive
