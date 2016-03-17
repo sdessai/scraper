@@ -8,17 +8,21 @@ For convenience URL is hard coded in the app.
 
 Application is bundled as an Maven project and following dependencies exist in POM.XML
     	===================================================================================
-    		<dependency>
-			<groupId>org.json</groupId>
-			<artifactId>json</artifactId>
-			<version>20090211</version>
-		</dependency>
+    		
   		
   		<dependency>
     		<groupId>org.glassfish</groupId>
     		<artifactId>javax.json</artifactId>
     		<version>1.0.4</version>
 		</dependency>
+		
+		<dependency>
+			<groupId>org.json</groupId>
+			<artifactId>json</artifactId>
+			<version>20090211</version>
+		</dependency>
+		
+		
   		<dependency>
 			<groupId>org.jsoup</groupId>
 			<artifactId>jsoup</artifactId>
